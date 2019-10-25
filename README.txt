@@ -1,6 +1,9 @@
 ~ Maze Solver ~ 
 Griffin Kao, October 2019
 
+Description:
+A simple python program to solve and check a maze given through some API 
+
 Running Solution: 
 - Make sure to have Python installed
 - Simply navigate to the root directory (containing this readme and the maze_solver.py file) in terminal/command prompt 
